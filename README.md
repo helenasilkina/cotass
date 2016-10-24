@@ -35,6 +35,13 @@
 
 
 <a href="https://www.youtube.com/watch?v=uRQAl7oZ0cQ&index=6&list=PLuWypj7F_mQlIBhQwfb8qgRjI-qZuJx1U">Максимальный поток в ненаправленном графе, часть 1</a>
+
+<a href="https://www.youtube.com/watch?v=2MvMKhdhgTQ&index=7&list=PLuWypj7F_mQlIBhQwfb8qgRjI-qZuJx1U">Максимальный поток в ненаправленном графе, часть 2</a>
+
+<a href="https://www.youtube.com/watch?v=mPy8ZUMfiSA&index=8&list=PLuWypj7F_mQlIBhQwfb8qgRjI-qZuJx1U">Максимальный поток в ненаправленном графе, часть 3</a>
+
+<a href="https://www.youtube.com/watch?v=PiAFl2sJ8B0&index=9&list=PLuWypj7F_mQlIBhQwfb8qgRjI-qZuJx1U">Максимальный поток в ненаправленном графе, часть 4</a>
+
 На спецсеминаре Максим Бабенко рассказывал о максимальных потоках в ненаправленных графах. Рассказ был построен на основе статей Гольдберга-Рао и Каргера-Левина.
 <a href="http://citeseer.ist.psu.edu/viewdoc/summary?doi=10.1.1.52.3087">Finding Maximum Flows in Undirected Graphs Seems Easier than Bipartite Matching by David R. Karger , Matthew S. Levine</a>
 <a href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.50.116">Flows in Undirected Unit Capacity Networks by Andrew V. Goldberg , Satish Rao</a>
