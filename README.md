@@ -43,3 +43,7 @@
 <a href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.50.116">Flows in Undirected Unit Capacity Networks by Andrew V. Goldberg, Satish Rao</a>
 
 Источник: <a href="https://cotass.wordpress.com/2011/04/15/%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE-%D1%81%D0%BF%D0%B5%D1%86%D1%81%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80-6-04-%D0%B8-%D1%81%D0%BF%D0%B5%D1%86%D0%BA%D1%83%D1%80%D1%81-13-04/">cotass</a>
+
+<a href="https://www.youtube.com/watch?v=C0twLZomNlk">Минимальные разрезы в графах и кактусы</a> 
+
+На спецсеминаре Руслан Савченко рассказал о статье Tamás Fleiner и András Frank 2009 года о представлении минимальных разрезов в произвольном графе минимальными разрезами в кактусе (графе, в котором каждое ребро принадлежит единственному простому циклу). Источник: <a href="https://cotass.wordpress.com/2011/04/24/%d0%b2%d0%b8%d0%b4%d0%b5%d0%be-%d0%bc%d0%b8%d0%bd%d0%b8%d0%bc%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b5-%d1%80%d0%b0%d0%b7%d1%80%d0%b5%d0%b7%d1%8b-%d0%b2-%d0%b3%d1%80%d0%b0%d1%84%d0%b0%d1%85-%d0%b8-%d0%ba/">Cotass</a>
