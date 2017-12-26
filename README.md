@@ -199,3 +199,8 @@ Cache oblivious алгоритмы работают в предположени 
 
 Доклад Сергея Рогуленко про Stratified B-tree.
 <a href="https://cotass.wordpress.com/2012/05/07/%d0%b2%d0%b8%d0%b4%d0%b5%d0%be%d0%b7%d0%b0%d0%bf%d0%b8%d1%81%d1%8c-%d0%bf%d1%80%d0%be%d1%88%d0%b5%d0%b4%d1%88%d0%b8%d1%85-%d0%b7%d0%b0%d0%bd%d1%8f%d1%82%d0%b8%d0%b9/">Источник</a>
+
+<a href="https://www.youtube.com/watch?v=SIbr50-2xMQ&list=PLuWypj7F_mQlIBhQwfb8qgRjI-qZuJx1U&index=46">COLA (Cache Oblivious Lookahead Array)</a>
+
+Доклад Максима Бабенко о Cache Oblivious Lookahead Array
+<a href="https://cotass.wordpress.com/2012/05/07/%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C-%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B8%D1%85-%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B9/">Источник</a>
